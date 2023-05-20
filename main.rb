@@ -16,7 +16,7 @@ end
 puts "Letter Frequency"
 print "Text: "
 text = gets.chomp
-result = letter_frequency(text)
+result = letter_frequency(text.upcase).sort
 puts result
 for key, value in result
   puts "#{key} => #{value}"
