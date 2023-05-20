@@ -16,3 +16,8 @@ end
 puts "Letter Frequency"
 print "Text: "
 text = gets.chomp
+result = letter_frequency(text)
+puts result
+for key, value in result
+  puts "#{key} => #{value}"
+end
