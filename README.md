@@ -1,4 +1,4 @@
-# LETTER FREQUENCY
+# 🔤 LETTER FREQUENCY
 ## Description
 - The main goal of this project is to analyze the letter frequency distribution in a given text. It can be useful for tasks such as cryptanalysis, language analysis, or simply gaining insights into the usage of letters in a piece of text.
 ## Features
